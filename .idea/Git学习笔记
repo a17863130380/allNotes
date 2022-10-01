@@ -45,6 +45,9 @@
         团队内协作，需要仓库的主人邀请人加入仓库。在github仓库页面，点击setting里的一个选项加。
         团队间就多一个fork，pull request
     7.Idea中使用Git
-        Idea中先设置git，再设置github账号，然后使用Idea中的git就行了。
-
+        Idea中先设置git，再设置github账号，然后使用Idea中的git就行了。本地和远程版本不一样时，会导致提交问题。
+        所以改之前先pull，然后push。
+    8.GitLab
+        得先安装服务器，例如用CentOS7以上版本的服务器。服务器得能上网。在服务器上安装GitLab，并将服务初始化以及启用。
+    9.Idea中用gitee，gitlab都要额外的装插件才可以。
 
