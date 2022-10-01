@@ -126,7 +126,7 @@ Idea不支持这些花里胡哨的。格式就是如下
 两英文冒号中间夹着表情名字
 
 #支持HTML语法
-<font color="red" size="5">给文字加颜色</font>
+<font color="red">给文字加颜色</font>
 
 
 
