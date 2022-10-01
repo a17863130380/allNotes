@@ -45,6 +45,6 @@
         团队内协作，需要仓库的主人邀请人加入仓库。在github仓库页面，点击setting里的一个选项加。
         团队间就多一个fork，pull request
     7.Idea中使用Git
-        Idea中先设置git，再设置github账号
+        Idea中先设置git，再设置github账号，然后使用Idea中的git就行了。
 
 
