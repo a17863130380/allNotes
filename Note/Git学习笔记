@@ -11,9 +11,27 @@
          git和代码托管中心
          远程代码仓库（eg：github，gitlab，gitee码云），从本地库推送代码到远程库。远程库会保存最新版本代码。
     3.Git常用命令
-        git config --global user.name 用户名     设置用户签名,ceshi
-        git config --global user.email 邮箱      设置用户签名
+        git config --global user.name 用户名     设置用户签名,
+        git config --global user.email 邮箱      设置用户签名。用户签名是用来区分不同的开发人员的。
+                                                不同开发人员提交显示不同的用户签名加以区分。
+                                        这里设置的签名和登录远程仓库(代码托管中心)的用户名密码没有任何关系
+                                        这里的 global作用域 是登录当前操作系统的用户
+
+                                        项目级别/仓库级别:
+                                        当前本地库范围内有效
+                                        git config user.name xxx
+                                        git config user.email xxx@xxx.com
+                                        签名信息保存位置:当前仓库位置/.git/config文件
+
+                                        系统用户级别:
+                                        登录当前操作系统的用户范围内有效
+                                        git config --global user.name xxx
+                                        git config --global user.email xxx@xxx.com
+                                        签名信息保存位置:~/.gitconfig文件(cat ~/.gitconfig)
+
+
         git init                                初始化本地库
+        会在当前文件夹目录下生成一个隐藏的.git文件夹，存放的是本地库相关的子目录和文件。
         git status                              查看本地库状态
         git add 文件名                           添加到暂存区
         git commit -m "日志信息" 文件名           提交到本地库
