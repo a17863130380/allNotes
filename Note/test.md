@@ -117,7 +117,7 @@ int main(){
 本地格式  
 ![name](绝对路径)
 
-<img src="img.png" width="500"/>
+<img src="../Resource/img.png" width="500"/>
 
 #表格  
 使用竖线|来分割 
