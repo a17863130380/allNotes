@@ -1,0 +1,26 @@
+#gogogo
+***
+1.数组 array
+![img_41.png](tupian/img_41.png)![img_42.png](tupian/img_42.png)
+![img_43.png](tupian/img_43.png)
+***
+2.字符串
+![img_44.png](tupian/img_44.png)
+![img_45.png](tupian/img_45.png)
+![img_46.png](tupian/img_46.png)
+![img_47.png](tupian/img_47.png)
+![img_48.png](tupian/img_48.png)
+![img_49.png](tupian/img_49.png)![img_50.png](tupian/img_50.png)
+3.string类（c++中第一个字母小写了）
+![img.png](img.png)![img_1.png](img_1.png)
+4.结构
+![img_2.png](img_2.png)![img_3.png](img_3.png)
+![img_4.png](img_4.png)
+![img_5.png](img_5.png)![img_6.png](img_6.png)
+![img_7.png](img_7.png)![img_8.png](img_8.png)
+![img_9.png](img_9.png)
+5.共用体概念得清楚
+![img_10.png](img_10.png)![img_11.png](img_11.png)
+6.枚举
+![img_12.png](img_12.png)![img_13.png](img_13.png)
+![img_14.png](img_14.png)![img_15.png](img_15.png)

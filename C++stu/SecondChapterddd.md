@@ -1,0 +1,27 @@
+#Second
+1.![img_15.png](tupian/img_15.png)
+![img_16.png](tupian/img_16.png)![img_17.png](tupian/img_17.png)
+![img_18.png](tupian/img_18.png)![img_19.png](tupian/img_19.png)
+2.整型：
+![img_20.png](tupian/img_20.png)![img_21.png](tupian/img_21.png)
+![img_22.png](tupian/img_22.png)![img_23.png](tupian/img_23.png)
+![img_24.png](tupian/img_24.png)![img_25.png](tupian/img_25.png)
+这个有点牛逼，‘\b’是退格转义字符。
+![img_26.png](tupian/img_26.png)
+wchar_t 用的不多，但是还是得了解。
+![img_27.png](tupian/img_27.png)
+![img_28.png](tupian/img_28.png)
+2.const，比较重要的常量定义方式。
+![img_29.png](tupian/img_29.png)
+3.浮点数
+![img_30.png](tupian/img_30.png)
+![img_31.png](tupian/img_31.png)
+这里的E大写小写都是可以的
+![img_32.png](tupian/img_32.png)
+4.运算符
+![img_33.png](tupian/img_33.png)![img_34.png](tupian/img_34.png)
+![img_35.png](tupian/img_35.png)
+5.类型转换
+![img_36.png](tupian/img_36.png)![img_37.png](tupian/img_37.png)
+![img_38.png](tupian/img_38.png)![img_39.png](tupian/img_39.png)
+![img_40.png](tupian/img_40.png)
