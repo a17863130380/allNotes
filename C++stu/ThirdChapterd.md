@@ -60,25 +60,25 @@
 cout<<"zifuchuan";  这里的“zifuchuan”实际就是第一个
 字符的地址，把一个字符地址给到cout，cout就会一直输出字符
 直到碰到结束标志'\0'。
-![img.png](img.png)![img_1.png](img_1.png)
+![img.png](tupian2/img.png)![img_1.png](tupian2/img_1.png)
 总的来说，c风格字符数组使用起来注意事项比较多，很麻烦。  
 7.2 new结构体
-![img_2.png](img_2.png)![img_3.png](img_3.png)
-![img_4.png](img_4.png)
+![img_2.png](tupian2/img_2.png)![img_3.png](tupian2/img_3.png)
+![img_4.png](tupian2/img_4.png)
 ***
 ---
 __7.3 c++管理数据内存__
-![img_5.png](img_5.png)
-![img_6.png](img_6.png)![img_7.png](img_7.png)
-![img_8.png](img_8.png)![img_9.png](img_9.png)
-![img_10.png](img_10.png)
+![img_5.png](tupian2/img_5.png)
+![img_6.png](tupian2/img_6.png)![img_7.png](tupian2/img_7.png)
+![img_8.png](tupian2/img_8.png)![img_9.png](tupian2/img_9.png)
+![img_10.png](tupian2/img_10.png)
 ***
 ---
 7.4类型组合:数组，结构，指针组合起来使用。  
 7.5vector：
-![img_11.png](img_11.png)![img_12.png](img_12.png)
-![img_13.png](img_13.png)![img_14.png](img_14.png)
-![img_15.png](img_15.png)
+![img_11.png](tupian2/img_11.png)![img_12.png](tupian2/img_12.png)
+![img_13.png](tupian2/img_13.png)![img_14.png](tupian2/img_14.png)
+![img_15.png](tupian2/img_15.png)
 
 
 pdf看到125了
