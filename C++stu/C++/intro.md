@@ -1,4 +1,4 @@
-#intro
+# intro
 1.可以先看一下windowsAPI，对于理解mfc有好处。  
 2.泛型：创建独立于类型的代码。  
 3.Windows的消息机制比较重要。![img.png](tupian/img.png)  
