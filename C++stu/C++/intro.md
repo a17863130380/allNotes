@@ -10,3 +10,5 @@
 ![img_9.png](tupian/img_9.png)![img_10.png](tupian/img_10.png)
 ![img_11.png](tupian/img_11.png)![img_12.png](tupian/img_12.png)
 ![img_13.png](tupian/img_13.png)![img_14.png](tupian/img_14.png)
+6. 建议的学习路线：
+![img_2.png](img_2.png)
