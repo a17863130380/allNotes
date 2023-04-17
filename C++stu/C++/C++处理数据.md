@@ -31,4 +31,29 @@
 > ![img_28.png](img_28.png)
 > 一些转义序列![img_29.png](img_29.png)
 > ![img_30.png](img_30.png)![img_31.png](img_31.png)
+> 宽字符类型：  ![img_32.png](img_32.png)
+> ![img_33.png](img_33.png)
+> ![img_34.png](img_34.png)那些之前大写的TRUE FALSE其实是宏定义
+> 
+> >const限定符，个人感觉没有define方便，但是书里推荐用const，因为const是可以指定类型的。
+> ![img_35.png](img_35.png)![img_36.png](img_36.png)
+> 建议以后还是多用const吧。
+整型就这些。
+## 浮点数
+> 简介：
+> ![img_37.png](img_37.png)
+> >![img_38.png](img_38.png)不能有空格要注意。
+> ![img_39.png](img_39.png)![img_40.png](img_40.png)
+> 不是~，是减号。印刷错了。注意！！！
+> ![img_41.png](img_41.png)
+> 
+> >![img_42.png](img_42.png)![img_43.png](img_43.png)
+> 注意精度不同。![img_44.png](img_44.png)
+> 浮点常量：![img_45.png](img_45.png)
+> ![img_46.png](img_46.png)![img_47.png](img_47.png)
+> 这里这个很重要。。。
+> ### 符号分类：
+> ![img_48.png](img_48.png)
+> 
+> >### 运算符
 > 
